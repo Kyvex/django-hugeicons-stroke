@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='django_hugeicons_stroke',
-    version='1.1.0',
+    version='1.1.1',
     description='A Django templatetag library for using hugeicons free stroke icons',
 	long_description=long_description,
 	long_description_content_type='text/markdown',
