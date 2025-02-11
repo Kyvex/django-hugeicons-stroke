@@ -1,3 +1,7 @@
+![PyPI - Version](https://img.shields.io/pypi/v/django-hugeicons-stroke)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/django-hugeicons-stroke)
+![PyPI - License](https://img.shields.io/pypi/l/django-hugeicons-stroke)
+
 # Free package for HugeIcons
 
 Check out all 36,000+ hand drawn icons by visiting the HugeIcons website @ https://hugeicons.com/
